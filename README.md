@@ -5,7 +5,7 @@
 
 ## a Problem:
 Both the United States, China and seemingly all major systems suffer from the same issues of inequality. It isn't a trend
-unique to a any particular political system. It's seemingly a product of power being consolidated and withheld. 
+unique to any particular political system. It's seemingly a product of power being consolidated and withheld. 
 
 In any case, the invention of the internet has brought many great gifts and helped to level this information/power asymmetry.
 But it's not very complete as is. Knowledge is dispersed throughout the vastness of the internet, and the **free***ness* 
