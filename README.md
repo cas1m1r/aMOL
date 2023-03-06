@@ -47,6 +47,6 @@ Don't you think you could too?**
 
 ### DISCLAIMER
 *I respect, appreciate and admire the many platforms that have "gamified" education. This is not meant to threaten them in 
-any way. The subjects I intend to explore are ones I don't see covered in this places, and furthermore I have no intention
+any way. The subjects I intend to explore are ones I don't see covered in these places, and furthermore I have no intention
 or plans to monetize this is anyway, nor use the semblance/language/or ideas directly attributed to any existing entity.*
 
